@@ -23,7 +23,7 @@ h1{
 .choice:hover{
     opacity: 0.7;
     cursor: pointer;
-    background-color: #081b31;
+    background-color: #010c18;
 }
 
 img{
@@ -52,4 +52,26 @@ img{
 #userScore, #compScore {
     margin-top: 3rem;
     font-size: 4rem;
+}
+
+.msgContainer{
+    margin-top: 5rem;
+}
+
+#msg{
+    background-color: #081b31;
+    color: #fff;
+    font-size: 2rem;
+    display: inline;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.resetBtn{
+    margin-top: 2rem;
+    background-color: #081b31;
+    color: #fff;
+    font-size: 2rem;
+    padding: 1rem;
+    border-radius: 1rem;
 }
