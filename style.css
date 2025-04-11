@@ -4,11 +4,16 @@
     text-align: center;
 }
 
+body{
+    background-color: #dce6f0;
+}
+
 h1{
     background-color: #081b31;
     color: white;
     height: 5rem;
     line-height: 5rem;
+    font-size: 3rem;
 }
 
 .choice{
